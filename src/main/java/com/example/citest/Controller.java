@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.*;
 public class Controller {
     @GetMapping("/tests")
     public String test(){
-        return "테스트문자 yml";
+        return "테스트문자 yml3";
     }
 }
