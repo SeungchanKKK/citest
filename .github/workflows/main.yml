@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - ma
+      - main
 
 name: Deploy String boot to Amazon EC2
 env:
