@@ -9,6 +9,6 @@ public class Controller {
     @GetMapping("/tests")
 
     public String test(){
-        return "이제되라";
+        return "겨우됬네 ㅋㅋ";
     }
 }
